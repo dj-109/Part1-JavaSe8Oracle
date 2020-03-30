@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="129b72bb-be1e-4033-b649-a56255bb1c2e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1YaBx5DBBSfHnj1Er0nxoi8ngXu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="sandbox" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="experience.adventofcode" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Day2">
+    <configuration name="Day1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="experience.adventofcode.Day1" />
+      <module name="Part1-JavaSe8Oracle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="experience.adventofcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="experience.adventofcode.Day2" />
+      <module name="Part1-JavaSe8Oracle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="experience.adventofcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day2b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="experience.adventofcode.Day2b" />
+      <module name="Part1-JavaSe8Oracle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="experience.adventofcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Replace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sandbox.stringUtils.Replace" />
+      <module name="Part1-JavaSe8Oracle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sandbox.stringUtils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Day2" />
+        <item itemvalue="Application.Replace" />
+        <item itemvalue="Application.Day2b" />
+        <item itemvalue="Application.Day1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="129b72bb-be1e-4033-b649-a56255bb1c2e" name="Default Changelist" comment="" />
+      <created>1583171067940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583171067940</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="98" key="#Project_Structure" timestamp="1583774509689">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="320" y="98" key="#Project_Structure/0.23.1440.819@0.23.1440.819" timestamp="1583774509689" />
+    <state x="439" y="242" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583774681410">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="439" y="242" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.819@0.23.1440.819" timestamp="1583774681410" />
+    <state x="533" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1585572918513">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="533" y="122" key="#com.intellij.ide.util.MemberChooser/0.23.1440.819@0.23.1440.819" timestamp="1585572918513" />
+    <state x="494" y="299" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585572805445">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="494" y="299" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.819@0.23.1440.819" timestamp="1585572805445" />
+    <state x="479" y="310" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583774713369">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="479" y="310" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.819@0.23.1440.819" timestamp="1583774713369" />
+    <state width="1419" height="135" key="GridCell.Tab.0.bottom" timestamp="1585587228139">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584692586664" />
+    <state width="1419" height="135" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1585587228139" />
+    <state width="1419" height="142" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1585240131116" />
+    <state width="1419" height="135" key="GridCell.Tab.0.center" timestamp="1585587228138">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584692586662" />
+    <state width="1419" height="135" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1585587228138" />
+    <state width="1419" height="142" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1585240131115" />
+    <state width="1419" height="135" key="GridCell.Tab.0.left" timestamp="1585587228138">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584692586661" />
+    <state width="1419" height="135" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1585587228138" />
+    <state width="1419" height="142" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1585240131115" />
+    <state width="1419" height="135" key="GridCell.Tab.0.right" timestamp="1585587228139">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584692586663" />
+    <state width="1419" height="135" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1585587228139" />
+    <state width="1419" height="142" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1585240131115" />
+    <state width="1419" height="135" key="GridCell.Tab.1.bottom" timestamp="1585587228140">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1419" height="354" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584017982363" />
+    <state width="1419" height="135" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1585587228140" />
+    <state width="1419" height="306" key="GridCell.Tab.1.bottom/0.23.1440.819@0.23.1440.819" timestamp="1585240131110" />
+    <state width="1419" height="135" key="GridCell.Tab.1.center" timestamp="1585587228140">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1419" height="354" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1584017982362" />
+    <state width="1419" height="135" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1585587228140" />
+    <state width="1419" height="306" key="GridCell.Tab.1.center/0.23.1440.819@0.23.1440.819" timestamp="1585240131110" />
+    <state width="1419" height="135" key="GridCell.Tab.1.left" timestamp="1585587228139">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1419" height="354" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1584017982361" />
+    <state width="1419" height="135" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1585587228139" />
+    <state width="1419" height="306" key="GridCell.Tab.1.left/0.23.1440.819@0.23.1440.819" timestamp="1585240131109" />
+    <state width="1419" height="135" key="GridCell.Tab.1.right" timestamp="1585587228140">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1419" height="354" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1584017982362" />
+    <state width="1419" height="135" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1585587228140" />
+    <state width="1419" height="306" key="GridCell.Tab.1.right/0.23.1440.819@0.23.1440.819" timestamp="1585240131110" />
+    <state x="208" y="23" width="1024" height="819" key="SettingsEditor" timestamp="1583774918329">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="208" y="23" width="1024" height="819" key="SettingsEditor/0.23.1440.819@0.23.1440.819" timestamp="1583774918329" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1584011263720">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.0.1440.900@0.0.1440.900" timestamp="1584011258294" />
+    <state width="500" height="445" key="SwitcherDM/0.23.1440.819@0.23.1440.819" timestamp="1584011263720" />
+    <state x="399" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1585572747394">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="399" y="264" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1584002030153" />
+    <state x="399" y="265" key="com.intellij.ide.util.TipDialog/0.23.1440.819@0.23.1440.819" timestamp="1585572747394" />
+    <state x="432" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1584016457026">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="432" y="351" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1584016457026" />
+    <state x="476" y="204" key="extract.method.dialog" timestamp="1584015510009">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="476" y="204" key="extract.method.dialog/0.0.1440.900@0.0.1440.900" timestamp="1584015510009" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1584012594110">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1584012594110" />
+    <state x="114" y="55" key="new project wizard" timestamp="1583774534044">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="114" y="55" key="new project wizard/0.23.1440.819@0.23.1440.819" timestamp="1583774534044" />
+    <state x="385" y="166" width="670" height="676" key="search.everywhere.popup" timestamp="1584869753982">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="385" y="157" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1584007026260" />
+    <state x="385" y="166" width="670" height="676" key="search.everywhere.popup/0.23.1440.819@0.23.1440.819" timestamp="1584869753982" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/experience/adventofcode/Day2b.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/experience/adventofcode/Day2.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/experience/adventofcode/Day2.java</url>
+          <line>66</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
