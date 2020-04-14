@@ -1,23 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="129b72bb-be1e-4033-b649-a56255bb1c2e" name="Default Changelist" comment="next working commit">
-      <change afterPath="$PROJECT_DIR$/com/experience/adventofcode/Day3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/experience/adventofcode/part3_input.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/sandbox/Loops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/sandbox/Overload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/Day3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/part3_input.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/sandbox/Overload.class" afterDir="false" />
+    <list default="true" id="129b72bb-be1e-4033-b649-a56255bb1c2e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/com/experience/adventofcode/part3Test.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/experience/adventofcode/Day2.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/experience/adventofcode/Day2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/experience/adventofcode/Day2b.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/experience/adventofcode/Day2b.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/sandbox/Sandbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/sandbox/Sandbox.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/sandbox/stringUtils/Replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/sandbox/stringUtils/Replace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/experience/adventofcode/Day3.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/experience/adventofcode/Day3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/Day2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/Day2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/Day2b.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/Day2b.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/sandbox/Sandbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/sandbox/Sandbox.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/sandbox/stringUtils/Replace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/sandbox/stringUtils/Replace.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/Day3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/Day3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/sandbox/Overload.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/sandbox/Overload.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +26,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="DJE &lt;dennis.jeschke@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
@@ -71,7 +66,7 @@
       <recent name="experience.adventofcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Loops">
+  <component name="RunManager" selected="Application.Day3">
     <configuration name="Day2b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="experience.adventofcode.Day2b" />
       <module name="Part1-JavaSe8Oracle" />
@@ -139,8 +134,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Loops" />
         <item itemvalue="Application.Day3" />
+        <item itemvalue="Application.Loops" />
         <item itemvalue="Application.Overload" />
         <item itemvalue="Application.Day2b" />
         <item itemvalue="Application.Sandbox" />
@@ -165,13 +160,21 @@
       <option name="project" value="LOCAL" />
       <updated>1586875157992</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="next working commit">
+      <created>1586884032155</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586884032155</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="next working commit" />
     <option name="LAST_COMMIT_MESSAGE" value="next working commit" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="320" y="82" key="#Project_Structure" timestamp="1586875840466">
@@ -179,9 +182,10 @@
     </state>
     <state x="320" y="82" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1586875840466" />
     <state x="320" y="98" key="#Project_Structure/0.23.1440.819@0.23.1440.819" timestamp="1583774509689" />
-    <state x="439" y="242" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583774681410">
-      <screen x="0" y="23" width="1440" height="819" />
+    <state x="439" y="241" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586887847240">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="439" y="241" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1586887847240" />
     <state x="439" y="242" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.819@0.23.1440.819" timestamp="1583774681410" />
     <state x="533" y="109" key="#com.intellij.ide.util.MemberChooser" timestamp="1586797249902">
       <screen x="0" y="0" width="1440" height="900" />
@@ -205,60 +209,60 @@
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="479" y="310" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.819@0.23.1440.819" timestamp="1583774713369" />
-    <state x="343" y="52" key="CommitChangelistDialog2" timestamp="1586883863110">
+    <state x="343" y="52" key="CommitChangelistDialog2" timestamp="1586884031993">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="343" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1586883863110" />
+    <state x="343" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1586884031993" />
     <state x="558" y="350" key="Github.ShareDialog" timestamp="1586875434293">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="558" y="350" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1586875434293" />
-    <state width="1419" height="195" key="GridCell.Tab.0.bottom" timestamp="1586883863141">
+    <state width="1419" height="158" key="GridCell.Tab.0.bottom" timestamp="1586888058493">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="195" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586883863141" />
+    <state width="1419" height="158" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586888058493" />
     <state width="1419" height="230" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1586191783125" />
     <state width="1419" height="135" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1586784864453" />
-    <state width="1419" height="195" key="GridCell.Tab.0.center" timestamp="1586883863140">
+    <state width="1419" height="158" key="GridCell.Tab.0.center" timestamp="1586888058492">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="195" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586883863140" />
+    <state width="1419" height="158" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586888058492" />
     <state width="1419" height="230" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1586191783124" />
     <state width="1419" height="135" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1586784864453" />
-    <state width="1419" height="195" key="GridCell.Tab.0.left" timestamp="1586883863140">
+    <state width="1419" height="158" key="GridCell.Tab.0.left" timestamp="1586888058489">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="195" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586883863140" />
+    <state width="1419" height="158" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586888058489" />
     <state width="1419" height="230" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1586191783124" />
     <state width="1419" height="135" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1586784864452" />
-    <state width="1419" height="195" key="GridCell.Tab.0.right" timestamp="1586883863141">
+    <state width="1419" height="158" key="GridCell.Tab.0.right" timestamp="1586888058492">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="195" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586883863141" />
+    <state width="1419" height="158" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586888058492" />
     <state width="1419" height="230" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1586191783125" />
     <state width="1419" height="135" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1586784864453" />
-    <state width="1419" height="158" key="GridCell.Tab.1.bottom" timestamp="1586797339001">
+    <state width="1419" height="158" key="GridCell.Tab.1.bottom" timestamp="1586888058049">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="158" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586797339001" />
+    <state width="1419" height="158" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586888058049" />
     <state width="1419" height="135" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1586191773865" />
     <state width="1419" height="135" key="GridCell.Tab.1.bottom/0.23.1440.819@0.23.1440.819" timestamp="1586784864456" />
-    <state width="1419" height="158" key="GridCell.Tab.1.center" timestamp="1586797338999">
+    <state width="1419" height="158" key="GridCell.Tab.1.center" timestamp="1586888058039">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="158" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1586797338999" />
+    <state width="1419" height="158" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1586888058039" />
     <state width="1419" height="135" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1586191773864" />
     <state width="1419" height="135" key="GridCell.Tab.1.center/0.23.1440.819@0.23.1440.819" timestamp="1586784864454" />
-    <state width="1419" height="158" key="GridCell.Tab.1.left" timestamp="1586797338999">
+    <state width="1419" height="158" key="GridCell.Tab.1.left" timestamp="1586888058037">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="158" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1586797338999" />
+    <state width="1419" height="158" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1586888058037" />
     <state width="1419" height="135" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1586191773864" />
     <state width="1419" height="135" key="GridCell.Tab.1.left/0.23.1440.819@0.23.1440.819" timestamp="1586784864454" />
-    <state width="1419" height="158" key="GridCell.Tab.1.right" timestamp="1586797339000">
+    <state width="1419" height="158" key="GridCell.Tab.1.right" timestamp="1586888058045">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="158" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586797339000" />
+    <state width="1419" height="158" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1586888058045" />
     <state width="1419" height="135" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1586191773864" />
     <state width="1419" height="135" key="GridCell.Tab.1.right/0.23.1440.819@0.23.1440.819" timestamp="1586784864456" />
     <state x="208" y="23" width="1024" height="819" key="SettingsEditor" timestamp="1583774918329">
@@ -300,10 +304,10 @@
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="114" y="55" key="new project wizard/0.23.1440.819@0.23.1440.819" timestamp="1585589221745" />
-    <state x="385" y="157" width="670" height="676" key="search.everywhere.popup" timestamp="1586882640058">
+    <state x="385" y="157" width="670" height="676" key="search.everywhere.popup" timestamp="1586886481888">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="157" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586882640058" />
+    <state x="385" y="157" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586886481888" />
     <state x="385" y="166" width="670" height="676" key="search.everywhere.popup/0.23.1440.819@0.23.1440.819" timestamp="1584869753982" />
   </component>
   <component name="XDebuggerManager">
