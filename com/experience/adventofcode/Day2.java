@@ -11,7 +11,7 @@ import java.io.*;
 public class Day2 {
 
     /**
-     * @param args
+     *
      */
     public static void main(String[] args) throws IOException {
 
@@ -32,9 +32,10 @@ public class Day2 {
     /**
      * read the values in pos 0, 1, 2, 3 containing operator, valueAposition, valueBposition, targetPosition
      * get values of input positions and operate with it
+     *
      * @param operationsArray
      */
-    private static void operate(@NotNull int[] operationsArray) {
+    public static void operate(@NotNull int[] operationsArray) {
         // | operation | position of A | position of B | target position | ...
         //starting at position 0
         int posArrayOperation = 0;
@@ -72,8 +73,8 @@ public class Day2 {
 
             } else if (operation == 99) {
 
-                System.out.println(operation + " halts the system; " + target +" is target; " + a +" and "+b+" are operators");
-               // posArrayOperation = posArrayOperation + 1;
+                //System.out.println(operation + " halts the system; " + target +" is target; " + a +" and "+b+" are operators");
+                // posArrayOperation = posArrayOperation + 1;
                 //falsche position
                 return;
             }
@@ -86,7 +87,7 @@ public class Day2 {
      * @return operators as int-array
      * @throws IOException
      */
-    private static int[]
+    public static int[]
     getOperators() throws IOException {
         String csvFile = "com/experience/adventofcode/part2_input.csv";
         String separator = ",";

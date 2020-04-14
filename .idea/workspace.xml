@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="129b72bb-be1e-4033-b649-a56255bb1c2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="129b72bb-be1e-4033-b649-a56255bb1c2e" name="Default Changelist" comment="next working commit">
       <change afterPath="$PROJECT_DIR$/com/experience/adventofcode/Day3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/com/experience/adventofcode/part3_input.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/sandbox/Loops.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/com/sandbox/Overload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/Day3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/part3_input.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/sandbox/Overload.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/experience/adventofcode/Day2.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/experience/adventofcode/Day2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/experience/adventofcode/Day2b.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/experience/adventofcode/Day2b.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/sandbox/Sandbox.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/sandbox/Sandbox.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/com/sandbox/stringUtils/Replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/sandbox/stringUtils/Replace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/META-INF/Part1-JavaSe8Oracle.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/Day1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/Day2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/Day2b.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/Part1-JavaSe8Oracle.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/part2_input.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/part2b-input.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/sandbox/Sandbox.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/sandbox/stringUtils/Replace.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/Day2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/Day2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/Day2b.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/experience/adventofcode/Day2b.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/sandbox/Sandbox.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/sandbox/Sandbox.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/sandbox/stringUtils/Replace.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Part1-JavaSe8Oracle/sandbox/stringUtils/Replace.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +60,7 @@
     <property name="extract.method.default.visibility" value="private" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
@@ -73,7 +71,7 @@
       <recent name="experience.adventofcode" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Day3">
+  <component name="RunManager" selected="Application.Loops">
     <configuration name="Day2b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="experience.adventofcode.Day2b" />
       <module name="Part1-JavaSe8Oracle" />
@@ -100,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Overload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sandbox.Overload" />
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sandbox.Loops" />
       <module name="Part1-JavaSe8Oracle" />
       <extension name="coverage">
         <pattern>
@@ -113,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Replace" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sandbox.stringUtils.Replace" />
+    <configuration name="Overload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sandbox.Overload" />
       <module name="Part1-JavaSe8Oracle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sandbox.stringUtils.*" />
+          <option name="PATTERN" value="sandbox.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Loops" />
         <item itemvalue="Application.Day3" />
         <item itemvalue="Application.Overload" />
         <item itemvalue="Application.Day2b" />
         <item itemvalue="Application.Sandbox" />
-        <item itemvalue="Application.Replace" />
       </list>
     </recent_temporary>
   </component>
@@ -160,12 +158,26 @@
       <option name="presentableId" value="Default" />
       <updated>1583171067940</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1586875157992</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586875157992</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="next working commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="next working commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="98" key="#Project_Structure" timestamp="1583774509689">
-      <screen x="0" y="23" width="1440" height="819" />
+    <state x="320" y="82" key="#Project_Structure" timestamp="1586875840466">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="320" y="82" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1586875840466" />
     <state x="320" y="98" key="#Project_Structure/0.23.1440.819@0.23.1440.819" timestamp="1583774509689" />
     <state x="439" y="242" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583774681410">
       <screen x="0" y="23" width="1440" height="819" />
@@ -193,28 +205,36 @@
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="479" y="310" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.819@0.23.1440.819" timestamp="1583774713369" />
-    <state width="1419" height="195" key="GridCell.Tab.0.bottom" timestamp="1586874784470">
+    <state x="343" y="52" key="CommitChangelistDialog2" timestamp="1586883863110">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="195" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586874784470" />
+    <state x="343" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1586883863110" />
+    <state x="558" y="350" key="Github.ShareDialog" timestamp="1586875434293">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="558" y="350" key="Github.ShareDialog/0.0.1440.900@0.0.1440.900" timestamp="1586875434293" />
+    <state width="1419" height="195" key="GridCell.Tab.0.bottom" timestamp="1586883863141">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="195" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586883863141" />
     <state width="1419" height="230" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1586191783125" />
     <state width="1419" height="135" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1586784864453" />
-    <state width="1419" height="195" key="GridCell.Tab.0.center" timestamp="1586874784466">
+    <state width="1419" height="195" key="GridCell.Tab.0.center" timestamp="1586883863140">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="195" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586874784466" />
+    <state width="1419" height="195" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586883863140" />
     <state width="1419" height="230" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1586191783124" />
     <state width="1419" height="135" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1586784864453" />
-    <state width="1419" height="195" key="GridCell.Tab.0.left" timestamp="1586874784465">
+    <state width="1419" height="195" key="GridCell.Tab.0.left" timestamp="1586883863140">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="195" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586874784465" />
+    <state width="1419" height="195" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586883863140" />
     <state width="1419" height="230" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1586191783124" />
     <state width="1419" height="135" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1586784864452" />
-    <state width="1419" height="195" key="GridCell.Tab.0.right" timestamp="1586874784468">
+    <state width="1419" height="195" key="GridCell.Tab.0.right" timestamp="1586883863141">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1419" height="195" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586874784468" />
+    <state width="1419" height="195" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586883863141" />
     <state width="1419" height="230" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1586191783125" />
     <state width="1419" height="135" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1586784864453" />
     <state width="1419" height="158" key="GridCell.Tab.1.bottom" timestamp="1586797339001">
@@ -280,10 +300,10 @@
       <screen x="0" y="23" width="1440" height="819" />
     </state>
     <state x="114" y="55" key="new project wizard/0.23.1440.819@0.23.1440.819" timestamp="1585589221745" />
-    <state x="385" y="157" width="670" height="676" key="search.everywhere.popup" timestamp="1586873859888">
+    <state x="385" y="157" width="670" height="676" key="search.everywhere.popup" timestamp="1586882640058">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="157" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586873859888" />
+    <state x="385" y="157" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1586882640058" />
     <state x="385" y="166" width="670" height="676" key="search.everywhere.popup/0.23.1440.819@0.23.1440.819" timestamp="1584869753982" />
   </component>
   <component name="XDebuggerManager">
