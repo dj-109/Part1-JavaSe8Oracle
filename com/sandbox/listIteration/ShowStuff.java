@@ -5,7 +5,7 @@ import java.util.Map;
 import java.util.TreeSet;
 
 public class ShowStuff {
-    public static void showMethod() {
+    public static void main(String[] args) {
         ServiceDummy serviceDummy = new ServiceDummy();
         TreeSet<String> header = serviceDummy.getHeader();
         List<Map<String, Object>> body = serviceDummy.getBody();
@@ -13,7 +13,7 @@ public class ShowStuff {
         workingBuilder(header, body);
         System.out.println("\n\n\n");
         System.out.println("+++++++++++++++++++++++++++++ not working builder: -- ");
-        notWorkingBuilder(serviceDummy);
+ //       notWorkingBuilder(serviceDummy);
     }
 
     /**
